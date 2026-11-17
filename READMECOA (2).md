@@ -198,10 +198,22 @@ EXPERIMENT-01-BUILDING-LOGICAL-CIRCUITS/
 ## 10. Viva Questions
 
 1. What are universal logic gates?
+   Universal logic gates are gates that can be used to implement any Boolean function.
+* NAND gate
+* NOR gate
 2. State De Morgan's theorems.
+  De Morgan’s theorems are:
+1. First theorem: (A · B)’ = A’ + B’
+2. Second theorem: (A + B)’ = A’ · B’
 3. What is the difference between SOP and POS?
+     SOP vs POS: SOP means Sum of Products (AND-OR), whereas POS means Product of Sums (OR-AND).
 4. How does XOR differ from XNOR?
+       XOR vs XNOR: XOR gives output 1 when inputs are different, whereas XNOR gives output 1 when inputs are the same.
 5. How can Boolean expressions be simplified?
+   Boolean Simplification: Boolean expressions can be simplified using Boolean algebra laws, De Morgan’s theorems and K-maps.
 6. How many truth-table rows are required for six inputs?
-7. What is logic depth?
-8. Why is functional verification necessary?
+       Truth Table for Six Inputs: 2⁶ = 64 rows.
+9. What is logic depth?
+        Logic Depth: Logic depth is the maximum number of logic gate levels between input and output.
+11. Why is functional verification necessary?
+        Functional Verification: It ensures that the circuit works correctly according to its design specifications and detects errors.
