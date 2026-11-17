@@ -1,6 +1,6 @@
 # EXPERIMENT-01: BUILDING LOGICAL CIRCUITS
 
-## Name : VAISNAVI
+## Name : VAISHNAVI
 ## Register Number : RA2511030010325
 
 ## 1. Aim
