@@ -1,7 +1,7 @@
 # EXPERIMENT-01: BUILDING LOGICAL CIRCUITS
 
-## Name : Manish.N
-## Register Number : RA2511030010353
+## Name : VAISNAVI
+## Register Number : RA2511030010325
 
 ## 1. Aim
 
